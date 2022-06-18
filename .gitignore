@@ -1,0 +1,6 @@
+.idea
+blog_app/__*
+user/__*
+users/migrations/__*
+web_project/__*
+blog_app/migrations/__*
